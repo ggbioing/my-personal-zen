@@ -1,0 +1,53 @@
+# Mastermind How to Think Like Sherlock Holmes
+- is very likely that Conan Doyle chose it as a deliberate tribute to one of his childhood idols, the philosopher-doctor Oliver Wendell Holmes, Sr., a figure known as much for his writing as for his contributions to medical practice. The detective’s character, in turn, was modeled after another mentor, Dr. Joseph Bell, a surgeon known for his powers of close observation.
+- beyond a simple detective of the old-fashioned sort: it is very likely that Conan Doyle chose it as a deliberate tribute to one of his childhood idols, the philosopher-doctor Oliver Wendell Holmes, Sr., a figure known as much for his writing as for his contributions to medical practice. The detective’s character, in turn, was modeled after another mentor, Dr. Joseph Bell, a surgeon known for his powers of close observation.
+- is very likely that Conan Doyle chose it as a deliberate tribute to one of his childhood idols, the philosopher-doctor Oliver Wendell Holmes, Sr., a figure known as much for his writing as for his contributions to medical practice. The detective’s character, in turn, was modeled after another mentor, Dr. Joseph Bell, a surgeon known for his powers of close observation.
+- it is very likely that Conan Doyle chose it as a deliberate tribute to one of his childhood idols, the philosopher-doctor Oliver Wendell Holmes, Sr., a figure known as much for his writing as for his contributions to medical practice. The detective’s character, in turn, was modeled after another mentor, Dr. Joseph Bell, a surgeon known for his powers of close observation.
+- make some observations about a phenomenon; create a hypothesis to explain those observations; design an experiment to test the hypothesis; run the experiment; see if the results match your expectations; rework your hypothesis if you must; lather, rinse, and repeat.
+- But you don’t just start hypothesizing at random: all the potential scenarios and explanations come from that initial base of knowledge and observation.
+- imply? At this point, Holmes will investigate all lines of inquiry, eliminating them one by one until the one that remains, however improbable, must be the truth.
+- But you don’t just start hypothesizing at random: all the potential scenarios and explanations come from that initial base of knowledge and observation. Only then do you test. What does your hypothesis imply? At this point, Holmes will investigate all lines of inquiry, eliminating them one by one until the one that remains, however improbable, must be the truth.
+- Each observation, each exercise, each simple inference drawn from a simple fact will strengthen your ability to engage in ever-more-complex machinations. It will lay the groundwork for new habits of thinking that will make such observation second nature.
+- When we think as a matter of course, our minds are preset to accept whatever it is that comes to them. First
+- it’s like our brains initially see the world as a true/false exam where the default answer is always true. And while it takes no effort whatsoever to remain in true mode, a switch of answer to false requires vigilance, time, and energy.
+- we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as
+- we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- if we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- if we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- if we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- if we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify it—when
+- if we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify
+- if we are busy, stressed, distracted, or otherwise depleted mentally, we may keep something marked as true without ever having taken the time to verify
+- Reach for an object more often, and it doesn’t gather dust. It stays on top, fresh and ready for your next touch (though who knows what it may take with it on its next trip out). Leave it untouched, and it retreats further and further into a heap—but
+- Reach for an object more often, and it doesn’t gather dust. It stays on top, fresh and ready for your next touch (though who knows what it may take with it on its next trip out). Leave it untouched, and it retreats further and further into a heap—but
+- know only what we can remember at any given point. In other words, no amount of knowledge will save us if we can’t recall it at the moment we need
+- know only what we can remember at any given point. In other words, no amount of knowledge will save us if we can’t recall it at the moment we need it.
+- we know only what we can remember at any given point. In other words, no amount of knowledge will save us if we can’t recall it at the moment we need it.
+- so-called Motivation to Remember (MTR) is far more important at the point of encoding—and no amount of MTR at retrieval will be efficient if the information wasn’t properly stored to begin with.
+- The so-called Motivation to Remember (MTR) is far more important at the point of encoding—and no amount of MTR at retrieval will be efficient if the information wasn’t properly stored to begin with.
+- There is no such thing as the “objective” environment. There is only our perception of it, a perception that depends in part on habitual ways of thinking (Watson’s disposition) and in part on the immediate circumstances (the sunny day).
+- Is something superfluous to the matter at hand influencing my judgment at any given point? (The answer will almost always be yes.) If so, how do I adjust my perception accordingly? What has influenced my first impression—and has that first impression in turn influenced others?
+- the field of judgment and decision making, puts it, “Intuition is nothing more and nothing less than recognition.”
+- “Intuition is nothing more and nothing less than recognition.”
+- It’s not just about the passive process of letting objects enter into your visual field. It is about knowing what and how to observe and directing your attention accordingly:
+- Each observation is taken in context and in tandem with the others—not just as a stand-alone piece but as something that contributes to an integral whole.
+- Whenever our thoughts are suspended between specific, discrete, goal-directed activities, the brain reverts to a so-called baseline, “resting” state—but don’t let the word fool you, because the brain isn’t at rest at all. Instead, it experiences tonic activity in what’s now known as the DMN, the default mode network: the posterior cingulate cortex, the adjacent precuneus, and the medial prefrontal cortex.
+- Attention is a limited resource. Paying attention to one thing necessarily comes at the expense of another.
+- Neisser noticed how he could look out a window at twilight
+- Neisser noticed how he could look out a window at twilight and either see the external world or focus on the reflection of
+- Neisser noticed how he could look out a window at twilight and either see the external world or focus on the reflection of the room in the glass.
+- Neisser noticed how he could look out a window at twilight and either see the external world or focus on the reflection of the room in the
+- Neisser noticed how he could look out a window at twilight and either see the external world or focus on the reflection of the room in the glass. But
+- Neisser noticed how he could look out a window at twilight and either see the external world or focus on the reflection of the room
+- Neisser, the father of cognitive psychology. Neisser
+- Neisser, the father of cognitive psychology. Neisser noticed how he could look out a window at twilight and either see the external world or focus on the reflection of the room
+- Write a checklist of steps to follow when making a diagnosis of a problem, be it a sick patient, a broken car, writer’s block, or whatever it is you face in your daily
+- Write a checklist of steps to follow when making a diagnosis of a problem, be it a sick patient, a broken car, writer’s block, or whatever it is you face in your daily life, instead of trying to do it by so-called instinct.
+- likely to allow us to do just that: selectivity, objectivity, inclusivity, and engagement.
+- That’s why we are so prone to the feeling of coincidence: we forget all those times we were wrong or nothing happened and remember only the moments that matched—because those are the ones we paid attention to in the first place.
+- You need, in Holmes’s words, to know what you are looking for in order to see it.
+- To observe, you must learn to separate situation from interpretation, yourself from what you’re seeing.
+- For Holmes, the absence of barking is the turning point of the case: the dog must have known the intruder. Otherwise he would have made a fuss.
+- We fail to note what we do not perceive up front, and we fail to inquire further or to take the missing pieces into account as we make our decision. Some information is always available, but some is always silent—and it will remain silent unless we actively stir it up.
