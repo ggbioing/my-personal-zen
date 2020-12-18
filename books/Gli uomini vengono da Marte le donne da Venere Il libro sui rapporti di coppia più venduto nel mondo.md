@@ -1,11 +1,7 @@
 # Gli uomini vengono da Marte le donne da Venere Il libro sui rapporti di coppia più venduto nel mondo
 - Le donne aspirano a un amore che sia principalmente affettuoso, comprensivo e rispettoso.
 - Si resta insieme per lealtà e senso del dovere, oppure per il timore di dover ricominciare tutto da capo. Sono molto poche le persone capaci di accrescere il proprio potenziale affettivo. Eppure a volte questo accade
-- vuole comprensione, ma lui è convinto che voglia soluzioni.
-- vuole comprensione, ma lui è convinto che voglia soluzioni.
-- vuole comprensione, ma lui è convinto che voglia soluzioni.
 - capisce la sua protesta e persevera nel suo atteggiamento. Lei vuole comprensione, ma lui è convinto che voglia soluzioni.
-- uomo o ignora una donna completamente quando questa gli parla, oppure la ascolta per qualche tempo, valuta i problemi che lei gli espone, quindi si calca in testa il suo cappello da Mister Aggiustatutto e le offre una soluzione destinata a farla sentire meglio. Rimane confuso quando il suo gesto d’amore non viene apprezzato e per quanto lei continui a ripetergli che non la ascolta, non capisce la sua protesta e persevera nel suo atteggiamento. Lei vuole comprensione, ma lui è convinto che voglia soluzioni.
 - Lei vuole comprensione, ma lui è convinto che voglia soluzioni.
 - lui, può peggiorare le cose nel tentativo di aiutarla. È necessario che gli uomini ricordino che le donne parlano dei loro problemi per accrescere l’intimità e non necessariamente per ottenere delle soluzioni.
 - Di solito le donne non capiscono il modo in cui i marziani affrontano lo stress. Vorrebbero che gli uomini si aprissero e parlassero delle difficoltà, come fanno loro.
@@ -28,7 +24,6 @@
 - L’ultima cosa di cui una donna ha bisogno quando è "in caduta libera" è che qualcuno le spieghi perché non ha ragione di provare certe sensazioni. Ha invece la necessità di una presenza amorevole, di qualcuno che la ascolti e reagisca con empatia. Anche se un uomo non è in grado di capire appieno perché una donna si sente sopraffatta, può ugualmente offrirle il suo amore, la sua attenzione e il suo sostegno.
 - Probabilmente conoscete anche voi delle coppie che non litigano mai e che, tra la sorpresa generale, a un certo punto decidono di divorziare. In molti di questi casi, la donna ha represso i suoi sentimenti negativi per evitare litigi, finendo così per atrofizzare la propria capacità di amare.
 - subirà tempeste e siccità, ma poiché ignora l’arte di mostrarsi amorevole quando la compagna è nel pozzo,
-- mostrarsi amorevole quando la compagna è nel pozzo,
 - Dire a una donna che non ha motivo di sentirsi ferita è più o meno la cosa peggiore che un uomo possa fare. In questo modo la ferisce ancora di più, ed è come se versasse sale su una ferita aperta.
 - Una donna che non si senta di tanto in tanto incoraggiata a sentirsi infelice non sarà mai autenticamente felice
 - Una donna, per esempio, crede di mostrare il proprio amore facendo un sacco di domande ed esprimendo interesse e preoccupazione.
