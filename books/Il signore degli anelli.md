@@ -2,8 +2,6 @@
 - Ora come allora, essi non capiscono e non amano macchinari più complessi del soffietto del fabbro, del mulino ad acqua o del telaio a mano, quantunque abilissimi nel maneggiare attrezzi di ogni tipo.
 - Più che belli, i loro visi erano generalmente gioviali, illuminati da occhi vivacissimi e guance colorite, con una bocca fatta per ridere, bere e mangiare.
 - guidava un calesse in direzione di Lungacque con una faccia da fare accagliare il latte appena munto”.
-- Ma non tocca a noi scegliere. Tutto ciò che possiamo decidere è come disporre del tempo che ci è dato. E ormai i giorni cominciano ad apparire neri e foschi.
-- Ma non tocca a noi scegliere. Tutto ciò che possiamo
 - Ma non tocca a noi scegliere. Tutto ciò che possiamo decidere è come disporre del tempo che ci è dato.
 - L’anello gli aveva conferito un potere proporzionato alla sua statura.
 - Sento che fin quando saprò che la mia Contea è sempre qui, comoda e sicura, girovagare ed errare sarà per me più facile, conscio che in una parte del mondo c’è un appoggio stabile e saldo che mi attende, anche se non vi dovessi più metter piede.
