@@ -1,4 +1,5 @@
 # Atlante delle emozioni umane
+## (Italian Edition) (Watt Smith, Tiffany)
 - significati che attribuiamo a un’emozione cambiano l’esperienza che noi ne facciamo. Sono loro a stabilire se sia il caso di accogliere un sentimento con allegria o con ansia, se lo si possa assaporare o se invece si debba provarne vergogna. Ignorando queste differenze, finiremmo per perdere ciò che fa delle nostre esperienze emotive quello che sono.
 - I significati che attribuiamo a un’emozione cambiano l’esperienza che noi ne facciamo. Sono loro a stabilire se sia il caso di accogliere un sentimento con allegria o con ansia, se lo si possa assaporare o se invece si debba provarne vergogna. Ignorando queste differenze, finiremmo per perdere ciò che fa delle nostre esperienze emotive quello che sono.
 - tanto quanto lo stufato che avevano messo in forno. Le casalinghe americane in questo furono tra le prime a essere incoraggiate al cosiddetto “emotional labour”, il termine che i sociologi usano per indicare quando ai dipendenti viene chiesto o imposto di controllare i loro sentimenti per influenzare quelli altrui.

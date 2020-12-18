@@ -1,4 +1,5 @@
 # Moby Dick
+## (Italian Edition) (Melville, Herman)
 - ogniqualvolta che nell’anima mia umido e piovigginoso s’instaura novembre,
 - una volta cotto, giudiziosamente imburrato e accortamente salato e pepato, non troverai nessuno che parlerà del pollo allo spiedo con maggior rispetto, per non dire reverenza, di me.
 - Meglio dormire con un cannibale sobrio che con un cristiano ubriaco.

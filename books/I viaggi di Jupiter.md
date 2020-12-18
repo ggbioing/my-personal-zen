@@ -1,4 +1,5 @@
 # I viaggi di Jupiter
+## (Italian Edition) (Simon, Ted)
 - Sarebbe stato il viaggio più importante della mia vita, il viaggio che milioni di persone sognano senza mai compierlo, e io volevo realizzare tutti quei sogni.
 - Sono sensibile a ogni sfumatura, a ogni colore, a ogni aroma e a ogni piccola cosa, persino alla macchia d’unto sulla giacca di Zanfini.
 - Perché è finita così? Sarebbe stato più prudente partire un giorno prima. Sì, ma sarebbe stato prudente anche restare a casa. Devi lasciare scorrere le cose, come vogliono loro, altrimenti perché sei qui, allora?

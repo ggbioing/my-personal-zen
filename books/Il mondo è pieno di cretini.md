@@ -1,4 +1,5 @@
 # Il mondo è pieno di cretini
+## (Italian Edition) (Erikson, Thomas)
 - Questo comportamento competitivo, che richiede alto impegno, spesso disturba gli altri che lo vedono come un modo per dominare ed eliminare il prossimo. Non è assolutamente vero, invece.
 - Il prestigio può lasciare indifferente un Rosso. È vero che ha un ego gigantesco, ma status e prestigio non hanno per lui la stessa importanza che per gli altri colori. La ragione è semplice. Al Rosso non importa ciò che pensano gli altri. Non è qui per loro, è qui per sé.
 - Come i Rossi, i Gialli amano prendere decisioni rapide, ma raramente riescono a spiegarle razionalmente. Di solito le giustificano dicendo «ho sentito che era la cosa giusta». L’istinto, naturalmente, non va sottovalutato. Gli studi dimostrano che può avere ragione più spesso di quanto crediamo.

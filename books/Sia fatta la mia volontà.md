@@ -1,4 +1,5 @@
 # Sia fatta la mia volontà
+## (Italian Edition) (Sozzi, Marina)
 - la nostra mortalità, limite per eccellenza, ci rende responsabili per ogni gesto che compiamo nei confronti nostri e degli altri. Se offendiamo, se feriamo, se siamo aggressivi, modifichiamo la nostra vita e quella altrui, come ben sanno gli orientali quando parlano di karma. Le azioni hanno conseguenze sulle nostre fragili vite.
 - Fui incantata da una poesia di Marguerite Yourcenar, Non saprai mai:
 - La domanda è cosa diversa dal bisogno.

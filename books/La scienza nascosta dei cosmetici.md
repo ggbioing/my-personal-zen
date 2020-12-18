@@ -1,4 +1,5 @@
 # La scienza nascosta dei cosmetici
+## (Italian Edition) (Mautino, Beatrice)
 - Ed è lì che si anticipano e creano le mode e che si risolvono i problemi, anzi li si prevede, perché «quando un problema arriva, è già tardi», come mi ha detto la responsabile di una di queste aziende.
 - La scoperta che alcune delle molecole presenti nei derivati del petrolio, e in particolare le aniline, potevano dare vita a una vasta gamma di colorazioni ha rivoluzionato l’industria tessile e ha contribuito a far nascere quella petrolchimica.
 - i responsabili dei capelli bianchi sono loro, i melanociti, che a un certo punto, non si sa bene perché, smettono di lavorare.

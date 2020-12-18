@@ -1,4 +1,5 @@
 # Gli uomini vengono da Marte le donne da Venere Il libro sui rapporti di coppia più venduto nel mondo
+## (Italian Edition) (Gray, John)
 - Le donne aspirano a un amore che sia principalmente affettuoso, comprensivo e rispettoso.
 - Si resta insieme per lealtà e senso del dovere, oppure per il timore di dover ricominciare tutto da capo. Sono molto poche le persone capaci di accrescere il proprio potenziale affettivo. Eppure a volte questo accade
 - capisce la sua protesta e persevera nel suo atteggiamento. Lei vuole comprensione, ma lui è convinto che voglia soluzioni.

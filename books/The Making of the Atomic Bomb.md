@@ -1,4 +1,5 @@
 # The Making of the Atomic Bomb
+## (Rhodes, Richard)
 - “Make it seem inevitable,” Louis Pasteur used to advise his students when they prepared to write up their discoveries.
 - “It is a profound and necessary truth,” Robert Oppenheimer would say, “that the deep things in science are not found because they are useful; they are found because it was possible to find them.”
 - Bohr proposed once that the goal of science is not universal truth. Rather, he argued, the modest but relentless goal of science is “the gradual removal of prejudices.” The discovery that the earth revolves around the sun has gradually removed the prejudice that the earth is the center of the universe. The discovery of microbes is gradually removing the prejudice that disease is a punishment from God. The discovery of evolution is gradually removing the prejudice that Homo sapiens is a separate and special creation.

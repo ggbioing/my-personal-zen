@@ -1,4 +1,5 @@
 # Articoli Selezionati
+## (Paola Mastrocola)
 - «Come scrittore non dovresti giudicare. Dovresti capire. E poi ascolta. Quando la gente parla ascoltala totalmente. Non pensare a quello che dovrai dire. La maggior parte della gente non ascolta mai. E neanche osserva. Dovresti essere capace di entrare in una stanza e quando esci sapere tutto quello che hai visto».
 - Anche leggere è fare attenzione. Alle parole, non alla trama. Sono le parole che fanno un libro, il modo in cui la storia è raccontata vale di più della storia in sé.
 - Ascoltiamo sempre pensando a quel che poi ci toccherà rispondere, alla bella figura che, rispondendo, ci piacerebbe fare! Non ascoltiamo mai la domanda. Non facciamo per niente attenzione a quel che l’altro ci chiede o ci dice, prestiamo attenzione soltanto a noi, a quel che gli altri penseranno di noi a seconda di come avremo risposto. Non è ascoltare, questo, è guardarsi allo specchio. È stare chiusi dentro un perenne esercizio di egocentrismo.

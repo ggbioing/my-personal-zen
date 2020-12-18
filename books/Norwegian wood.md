@@ -1,4 +1,5 @@
 # Norwegian wood
+## (Italian Edition) (Mytting, Lars)
 - la legna riscaldi due volte: quando si abbatte l’albero e quando si accende il fuoco.
 - Ogni anno si abbatte un settore non attiguo a quello abbattuto l’anno precedente, perché altrimenti i polloni, non dovendo protendersi in cerca di luce, non diventeranno alti come quelli che crescono all’ombra degli alberi contigui;
 - Nel bosco non c’è nulla che avvenga nel giro di una notte, e può capitare di raggiungere l’età della pensione prima di godere i frutti delle proprie fatiche. Anzi, non è raro che a raccoglierli sia la generazione successiva

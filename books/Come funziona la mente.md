@@ -1,4 +1,5 @@
 # Come funziona la mente
+## (Italian Edition) (Pinker, Steven)
 - Anche oggi che il mondo sembra diventato un parcheggio, solo una metà circa delle terre emerse è accessibile a veicoli su ruote o cingoli, mentre quasi tutte lo sono a veicoli dotati di piedi: gli animali, i veicoli progettati dalla selezione naturale6.
 - Un’impresa ancora più degna di considerazione è padroneggiare i movimenti della mano. A far notare la raffinata ingegneria naturale che sta dietro di essa fu, quasi duemila anni fa, il medico greco Galeno. La mano è un singolo utensile in grado di manipolare oggetti
 - Un’impresa ancora più degna di considerazione è padroneggiare i movimenti della mano. A far notare la raffinata ingegneria naturale che sta dietro di essa fu, quasi duemila anni fa, il medico greco Galeno. La mano è un singolo utensile in grado di manipolare oggetti di una varietà di dimensioni, forme e pesi impressionante

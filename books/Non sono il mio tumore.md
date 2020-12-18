@@ -1,4 +1,5 @@
 # Non sono il mio tumore
+## (Italian Edition) (Sozzi, Marina)
 - Andavo fiera di questo atteggiamento combattivo: in realtà si trattava di una potentissima difesa della mente di fronte a una notizia troppo destabilizzante per essere accolta in quel momento.
 - Ormai è noto che il cancro non è una malattia, ma un insieme di patologie, ciascuna con caratteristiche proprie, con probabilità molto diverse di remissione o di sopravvivenza.
 - ricondurre la malattia a una sorta di «oggettività» naturalistica, un punto di vista molto simile al riduzionismo biomedico, che tende a ignorare la dimensione soggettiva della malattia (illness) per occuparsi solo della materia corporea (disease), a mettere da parte il malato per focalizzare tutta l’attenzione sulla patologia.

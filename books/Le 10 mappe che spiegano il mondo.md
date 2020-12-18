@@ -1,4 +1,5 @@
 # Le 10 mappe che spiegano il mondo
+## (Italian Edition) (Marshall, Tim)
 - I cinesi vedono i rapporti sociali molto diversamente da come li vede l’Occidente. Il pensiero occidentale mette davanti a tutto i diritti individuali; il pensiero cinese antepone la collettività all’individuo.
 - Ci sono cinquanta stati, ma formano un’unica nazione, cosa che i ventotto stati sovrani dell’Unione Europea non potranno mai fare.
 - Perché mai un derelitto, tedesco, scandinavo o italiano, avrebbe dovuto emigrare in America Latina e rimanere un servo della gleba, se poteva trasferirsi negli Stati Uniti e diventare un libero proprietario terriero?

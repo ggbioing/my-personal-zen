@@ -1,4 +1,6 @@
 # The Making of the Atomic Bomb 25th Anniversary Edition
+## (Rhodes, Richard)
+- 
 - child complied, dried his tears, and fussed no longer. Then, as in later childhood, he assumed the attitude that there is no point in fighting authority. If they wanted him to behave that way, all right, he would; it
 - Then, as in later childhood, he assumed the attitude that there is no point in fighting authority. If they wanted him to behave that way, all right, he would; it was easier to go along with them than against.
 - the mass spectrograph was a skittish instrument even in the hands of its inventor,

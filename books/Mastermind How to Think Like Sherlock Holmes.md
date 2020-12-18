@@ -1,4 +1,5 @@
 # Mastermind How to Think Like Sherlock Holmes
+## (Maria Konnikova)
 - it is very likely that Conan Doyle chose it as a deliberate tribute to one of his childhood idols, the philosopher-doctor Oliver Wendell Holmes, Sr., a figure known as much for his writing as for his contributions to medical practice. The detective’s character, in turn, was modeled after another mentor, Dr. Joseph Bell, a surgeon known for his powers of close observation.
 - make some observations about a phenomenon; create a hypothesis to explain those observations; design an experiment to test the hypothesis; run the experiment; see if the results match your expectations; rework your hypothesis if you must; lather, rinse, and repeat.
 - But you don’t just start hypothesizing at random: all the potential scenarios and explanations come from that initial base of knowledge and observation. Only then do you test. What does your hypothesis imply? At this point, Holmes will investigate all lines of inquiry, eliminating them one by one until the one that remains, however improbable, must be the truth.

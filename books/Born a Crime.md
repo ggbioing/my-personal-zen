@@ -1,4 +1,5 @@
 # Born a Crime
+## (Trevor Noah)
 - learned about how Christianity works: If you’re Native American and you pray to the wolves, you’re a savage. If you’re African and you pray to your ancestors, you’re a primitive. But when white people pray to a guy who turns water into wine, well, that’s just common sense.
 - more I learned about how Christianity works: If you’re Native American and you pray to the wolves, you’re a savage. If you’re African and you pray to your ancestors, you’re a primitive. But when white people pray to a guy who turns water into wine, well, that’s just common sense.
 - more I learned about how Christianity works: If you’re Native American and you pray to the wolves, you’re a savage. If you’re African and you pray to your ancestors, you’re a primitive. But when white people pray to a guy who turns water into wine, well, that’s just common sense.

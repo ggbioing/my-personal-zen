@@ -1,4 +1,5 @@
 # Virus la grande sfida
+## (Italian Edition) (Burioni, Roberto)
 - Il fatto che l’infezione possa essere asintomatica è un’ottima notizia per il paziente, che non sta male, ma è ancora migliore per il virus, che viene diffuso da chi sta bene e se ne va in giro per la città.
 - caso di questo nuovo coronavirus muoiono o comunque si ammalano gravemente anche pazienti giovani e nel pieno delle forze: questo perché, mentre l’infezione
 - Invece nel caso di questo nuovo coronavirus muoiono o comunque si ammalano gravemente anche pazienti giovani e nel pieno delle forze: questo perché, mentre l’infezione causata dal virus influenzale rimane nella parte alta dell’apparato respiratorio – interessando sostanzialmente trachea e bronchi –, questo nuovo virus riesce a spingersi in profondità nei polmoni, impedendo l’ossigenazione del sangue e causando nel paziente una gravissima polmonite virale (e in questo, come vedremo, ricorda il comportamento del virus dell’influenza spagnola).

@@ -1,4 +1,5 @@
 # Capitalismo immateriale
+## (Italian Edition) (Quintarelli, Stefano)
 - Dato che quella digitale è una tecnologia trasversale, che viene usata in ogni settore della società (gli economisti le chiamano GPT, General Purpose Technologies) i suoi effetti si propagano su tutta l’economia.
 - Non tutto ciò cui aspirano o immaginano i sacerdoti del culto delle avanguardie è positivo. Non tutto ciò che lamentano i soloni delle retroguardie è negativo. Tuttavia, molto è inevitabile. La strada è segnata e certi fenomeni di base, determinati dallo sviluppo tecnologico, a sua volta determinato dall’evoluzione della ricerca nella fisica, sono inarrestabili.
 - l’idea dei ritorni decrescenti l’abbiamo capita solo duecento anni fa. Un battere di ciglia nella storia del mondo.

@@ -1,4 +1,5 @@
 # Il conte di Montecristo
+## (Italian Edition) (Dumas, Alexandre)
 - a sedersi a poppa e diede ordine di attraccare alla Canebière.
 - «Oh, mi hai spezzato il cuore!». «Bah, tu sei qui», disse il vegliardo sorridendo. «Ora è tutto dimenticato, giacché tutto è bene quel che finisce bene».
 - «Abbiamo sempre premura di essere felici, monsieur Danglars, giacché quando si è a lungo patito si fatica parecchio a credere alla felicità.

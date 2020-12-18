@@ -1,4 +1,5 @@
 # Il signore degli anelli
+## (Tolkien, J.R.R.)
 - Ora come allora, essi non capiscono e non amano macchinari più complessi del soffietto del fabbro, del mulino ad acqua o del telaio a mano, quantunque abilissimi nel maneggiare attrezzi di ogni tipo.
 - Più che belli, i loro visi erano generalmente gioviali, illuminati da occhi vivacissimi e guance colorite, con una bocca fatta per ridere, bere e mangiare.
 - guidava un calesse in direzione di Lungacque con una faccia da fare accagliare il latte appena munto”.

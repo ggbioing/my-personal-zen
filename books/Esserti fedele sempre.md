@@ -1,4 +1,5 @@
 # Esserti fedele sempre
+## (o forse no): Storie di amore, sesso e relazioni (Italian Edition) (Pulpo, Stella)
 - Il fatto è che Fausto è una persona capace di prendere la vita dal verso giusto, con una positiva dose di distacco e un inventario di pretese ragionevolmente basse. Vive di piccoli ottimismi quotidiani, micro-gratificazioni frequenti, come se avesse imposto un filtro smooth alla vita per cancellarne le asperità. Il suo mantra è: trarre il massimo piacere dal minimo sforzo. Esercitarsi a gioire delle cose buone, imparare a vederle, quando ci sono. Persino quando l’evento positivo della giornata è un misero like su un’app da rimorchio.
 - fallimento è parte di un’azione che si chiama vivere.
 - a prendersi meno sul serio e ad ammettere l’ipotesi che il fallimento

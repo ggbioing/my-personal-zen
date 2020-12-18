@@ -1,4 +1,5 @@
 # IQ to Love What Makes Highly Intelligent Men Attractive to Women
+## (Litvak, Nelly)
 - if a girl is interested in you, a daisy-shaped radar starts working in her head, catching all your moves, and turning them into a binary signal: “He loves me, he loves me not”.
 - She wants to receive kindness and care only from a man whom she cannot just push around as she likes. Exactly like in sport, victory is as valuable as tough the opponent is.
 - She will often prefer to keep it light, have fun, and take some time to figure it out.
