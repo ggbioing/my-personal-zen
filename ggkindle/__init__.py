@@ -18,8 +18,6 @@ def parse_single_highlight(highlight_string):
 
 class Highlight:
 
-	total_highlights = 0
-
 	def __init__(self, raw_string):
 		self.title, self.author, self.content = parse_single_highlight(raw_string)
 
@@ -33,13 +31,15 @@ class Book:
 
 		self.json = json
 
-		if self.json_dict is None:
+		if self.json is None:
 			self.author = author
 			self.title = title
 			self.highlights = []
 		else:
+			self.asin = self.json['asin']  # BOOK ID
 			self.author = self.json['authors']
 			self.title = self.json['title']
+			self.highlights = self.json['highlights']
 
 	def add_highlight(self, highlight):
 
@@ -48,8 +48,8 @@ class Book:
 		if highlight:
 			self.highlights.append(highlight)
 
-	def __str__(self):
-		return self.title
+	def __repr__(self):
+		return f"{self.title}\n\tHighlights: {len(self.highlights)}"
 
 	def write_book(self, library_dir):
 		if self.title == None or len(self.highlights) == 0:
@@ -62,7 +62,12 @@ class Book:
 			file.write(f"# {clean_title}\n")
 			file.write(f"## {self.author}\n")
 			for h in self.highlights:
-				clean_text = h.content.replace("\n", " ")
+				if isinstance(h, Highlight):
+					clean_text = h.content.replace("\n", " ")
+				elif isinstance(h, dict):
+					clean_text = h['text']
+				else:
+					raise NotImplementedError
 				file.write(f"- {clean_text}")
 				file.write("\n")
 
@@ -80,6 +85,10 @@ class Library:
 
 		self.books.append(book)
 		self.book_list.add(book.title)
+
+	def export_to(self, library_dir):
+		for b in self:
+			b.write_book(library_dir=library_dir)
 
 	def __len__(self):
 		return len(self.book_list)
