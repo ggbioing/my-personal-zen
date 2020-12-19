@@ -1,0 +1,4 @@
+# San Pietro Segreti e meraviglie in un racconto lungo duemila anni Italian Edition
+## Alberto Angela
+- A pensarci bene, il più grande monumento lasciato dai Romani sono le strade, tutt’oggi usate per andare al lavoro, a scuola o in vacanza. È una rete di quasi centomila chilometri che attraversava e collegava tre continenti: Europa, Africa e Asia. Era il web di allora.
+- da Costantino in poi, la Chiesa diventò una potenza economica, il cui peso crebbe di anno in anno. Lo stesso imperatore, dopo la costruzione della basilica di San Pietro, le aveva concesso molti doni, fra i quali diversi appezzamenti che garantivano una rendita di 3500 solidi l’anno, da utilizzare per la manutenzione e l’illuminazione dell’edificio. Questa improvvisa e inaspettata generosità nei confronti dei cristiani convinse tantissime persone a convertirsi, forse allora più per ragioni di comodo che per motivi spirituali.
