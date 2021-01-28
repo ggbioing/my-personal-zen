@@ -1,0 +1,37 @@
+# Walden Vita nel bosco Italian Edition
+## Henry David Thoreau and Salvatore Proietti
+- Si tratta piuttosto di un esperimento di filosofia pratica, la ricerca di un’unità di misura per valutare le proprie abitudini. Essenzialità non significa privazione. È solo il punto di partenza per una maggiore consapevolezza.
+- chi ride con umorismo ride soprattutto del suo modo di vedere il mondo. Come scrive Calvino nelle Lezioni americane, lo humour – a differenza della comicità – “mette in dubbio l’io e il mondo e tutta la rete di relazioni che lo costituiscono”.
+- nel combattere una “macchina” istituzionale ingiusta, il ruolo del disobbediente è quello dell’ingranaggio che prende consapevolezza delle proprie responsabilità, che agisce come materiale resistente: un’opposizione dall’interno del mondo, non un’alternativa dall’esterno. La strategia di Thoreau non è mai la fuga.
+- Vedo dei giovani, miei concittadini, la cui sventura è di aver ereditato fattorie, case, granai, bestiame e attrezzi per la coltivazione, perché è più facile acquisirli che liberarsene.
+- L’opinione pubblica è un tiranno debole, se paragonato con la nostra opinione privata. Ciò che un uomo pensa di sé, è questo che determina, o piuttosto indica, il suo destino.
+- Non ci si può fidare, senza prove, di alcun modo di pensare o di fare, per quanto antico.
+- Quale demone mi ha mai posseduto per farmi comportare così bene?
+- i progressi della storia hanno avuto solo un’influenza minima sulle leggi essenziali dell’esistenza umana;
+- Non parlo a coloro che sono ben impiegati, in qualunque posizione, e sanno se lo sono o meno; ma principalmente alla massa di uomini che sono scontenti, e si lamentano pigramente della durezza del loro destino o dei tempi, quando potrebbero migliorarli.
+- invece di studiare come rendere proficuo agli altri uomini comprare i miei canestri, studiai piuttosto come evitare la necessità di venderli.
+- Non conosciamo che pochi uomini, e moltissimi cappotti e pantaloni. Abbigliate uno spaventapasseri con la vostra ultima camicia, e voi mettetevi scamiciati al suo fianco, chi non saluterebbe prima lo spaventapasseri?
+- Io dico, fate attenzione a ogni impresa che richieda vestiti nuovi, e non piuttosto una persona nuova che li indossi. Se avete una nuova impresa davanti a voi, tentatela coi vostri vestiti vecchi. A tutti gli uomini serve non qualcosa con cui farlo, ma qualcosa da fare, o piuttosto qualcosa da essere.
+- A Parigi, la scimmia capo si mette un berretto da viaggiatore e tutte le scimmie d’America fanno lo stesso.
+- Questo spendere la parte migliore della propria vita guadagnando soldi allo scopo di godere di una discutibile libertà durante gli anni meno validi, mi fa venire in mente l’inglese che prima andò in India a guadagnare una fortuna per poter tornare in Inghilterra a vivere la vita di un poeta. Si sarebbe dovuto ritirare subito in soffitta.
+- Eppure gli uomini sono giunti al punto che spesso si affamano, non per mancanza del necessario, ma per mancanza del lusso;
+- penso che la caduta dallo stato di agricoltore a quello di operaio sia altrettanto grandiosa e memorabile della caduta dallo stato di uomo a quello di agricoltore
+- In breve, sono convinto, per fede e per esperienza, che mantenersi su questa terra non sia una fatica ma un passatempo, se viviamo con semplicità e saggezza;
+- perché è il diavolo che trova lavoro all’ozioso
+- Non importa cosa dica l’orologio o gli atteggiamenti e le fatiche degli uomini. Il mattino è quando sono sveglio e quando c’è l’alba dentro di me.
+- Ho scoperto che nessun esercizio delle gambe può avvicinare due menti l’una all’altra.
+- Amo essere da solo. Non ho mai trovato un compagno che mi desse tanta compagnia come la solitudine. Per lo più, siamo più soli quando usciamo fra gli uomini che quando restiamo nella nostra camera.
+- contadino può lavorare nei campi o nei boschi tutto il giorno, zappando o tagliando legna, senza sentirsi solo, perché è impegnato;
+- Ogni giorno o due, mi facevo un giro al villaggio per ascoltare un po’ dei pettegolezzi che continuavano incessanti, che circolavano di bocca in bocca o di giornale in giornale, e che – presi in dosi omeopatiche – erano davvero rinfrescanti,
+- Sono convinto che, se tutti gli uomini vivessero semplicemente come feci allora, il furto e la rapina sarebbero sconosciuti. Questi avvengono solo in comunità dove alcuni hanno più di quanto basti mentre altri non hanno abbastanza.
+- Non è un’onta che l’uomo sia un animale carnivoro? Vero, può vivere facendo preda degli altri animali, e in gran misura è così; ma questo è un modo miserabile – come può imparare chiunque vada a intrappolare conigli o a macellare agnelli – e sarà considerato un benefattore della sua razza chi insegnerà all’uomo a limitarsi a una dieta più innocente e salutare.
+- Qualunque sia la mia pratica, non ho dubbi che sia parte del destino della razza umana, nel suo graduale avanzamento, smettere di mangiare animali, con altrettanta sicurezza di quanto le tribù selvagge hanno smesso di mangiarsi a vicenda quando sono giunte in contatto con quelle più civilizzate.
+- Come profetizzò il contadino che mi aiutava nell’aratura, mi riscaldavano due volte, una mentre li spaccavo e l’altra quando erano sul fuoco, cosicché nessun combustibile poteva dare più calore.
+- Tagliare la dura legna verde, anche usandone poca, rispondeva al mio scopo meglio di qualunque altra cosa. A volte, nei pomeriggi invernali, lasciavo un buon fuoco acceso prima di andare a fare una passeggiata; e quando tornavo, tre o quattro ore dopo, era ancora vivo e brillante. La mia casa non era vuota, anche se ero andato via. Era come se mi fossi lasciato dietro un’allegra governante. Eravamo io e il Fuoco a viverci; e solitamente la governante si dimostrava degna di fiducia.
+- La stufa non solo prendeva spazio e riempiva la casa di odori, ma nascondeva il fuoco, e io sentii di aver perso un compagno. Col fuoco, si può sempre vedere un viso. Il lavoratore che lo guarda la sera purifica i suoi pensieri dalle scorie e dalla grossolanità che hanno accumulato durante la giornata.
+- È notevole con quanta facilità e insensibilità facciamo un certo percorso e seguiamo la strada già battuta. Non ci avevo vissuto per una settimana e i miei piedi avevano già tracciato un sentiero dalla mia porta alla sponda del lago;
+- Ho imparato questo, almeno, dal mio esperimento; che se uno avanza fiducioso nella direzione dei suoi sogni, e si sforza di vivere la vita che ha immaginato, incontrerà un successo inatteso nei momenti più comuni.
+- Se avete costruito castelli in aria, il vostro lavoro non deve andare perduto; è lì che devono stare. Ora metteteci sotto delle fondamenta.
+- Se un uomo non tiene il passo dei suoi compagni, forse è perché sente un tamburino diverso. Che marci secondo la musica che sente, qualunque ne sia il ritmo o comunque sia lontana.
+- Per quanto sia meschina, incontrate la vostra vita e vivetela; non evitatela e non la insultate. Non è cattiva come voi. Sembra più povera quando voi siete più ricchi.
+- Il cercatore di difetti ne troverà anche in paradiso.
