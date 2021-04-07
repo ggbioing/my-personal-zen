@@ -1,0 +1,1 @@
+javascript:(function (e){var t=document.createElement("script");t.setAttribute("src",e),t.setAttribute("crossorigin","anonymous"),document.body.appendChild(t)}('//bookcision.readwise.io/dist/bookcision.js'));
