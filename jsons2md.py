@@ -7,6 +7,7 @@ import json
 
 
 jdir = Path('jsons')
+jdir = Path(r'C:\Users\luigi.antelmi\Dropbox\LIBRI\kindle\jsons')
 
 library = Library()
 
