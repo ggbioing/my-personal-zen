@@ -1,8 +1,8 @@
 # Walden Vita nel bosco Italian Edition
 ## Henry David Thoreau and Salvatore Proietti
 - Si tratta piuttosto di un esperimento di filosofia pratica, la ricerca di un’unità di misura per valutare le proprie abitudini. Essenzialità non significa privazione. È solo il punto di partenza per una maggiore consapevolezza.
-- chi ride con umorismo ride soprattutto del suo modo di vedere il mondo. Come scrive Calvino nelle Lezioni americane, lo humour – a differenza della comicità – “mette in dubbio l’io e il mondo e tutta la rete di relazioni che lo costituiscono”.
-- nel combattere una “macchina” istituzionale ingiusta, il ruolo del disobbediente è quello dell’ingranaggio che prende consapevolezza delle proprie responsabilità, che agisce come materiale resistente: un’opposizione dall’interno del mondo, non un’alternativa dall’esterno. La strategia di Thoreau non è mai la fuga.
+- chi ride con umorismo ride soprattutto del suo modo di vedere il mondo. Come scrive Calvino nelle Lezioni americane, lo humour – a differenza della comicità – 'mette in dubbio l’io e il mondo e tutta la rete di relazioni che lo costituiscono'.
+- nel combattere una 'macchina' istituzionale ingiusta, il ruolo del disobbediente è quello dell’ingranaggio che prende consapevolezza delle proprie responsabilità, che agisce come materiale resistente: un’opposizione dall’interno del mondo, non un’alternativa dall’esterno. La strategia di Thoreau non è mai la fuga.
 - Vedo dei giovani, miei concittadini, la cui sventura è di aver ereditato fattorie, case, granai, bestiame e attrezzi per la coltivazione, perché è più facile acquisirli che liberarsene.
 - L’opinione pubblica è un tiranno debole, se paragonato con la nostra opinione privata. Ciò che un uomo pensa di sé, è questo che determina, o piuttosto indica, il suo destino.
 - Non ci si può fidare, senza prove, di alcun modo di pensare o di fare, per quanto antico.

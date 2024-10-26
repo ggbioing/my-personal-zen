@@ -58,18 +58,23 @@ class Book:
 		clean_title = "".join(
 			[c for c in self.title if c.isalpha() or c.isdigit() or c == " "]
 		).rstrip()
-		with open(f"{library_dir}/{clean_title}.md", "w+") as file:
+		with open(f"{library_dir}/{clean_title}.md", "w+", encoding='utf-8') as file:
 			file.write(f"# {clean_title}\n")
 			file.write(f"## {self.author}\n")
 			for h in self.highlights:
-				if isinstance(h, Highlight):
-					clean_text = h.content.replace("\n", " ")
-				elif isinstance(h, dict):
-					clean_text = h['text']
-				else:
-					raise NotImplementedError
-				file.write(f"- {clean_text}")
-				file.write("\n")
+				try:
+					if isinstance(h, Highlight):
+						clean_text = h.content.replace("\n", " ")
+					elif isinstance(h, dict):
+						clean_text = h['text']
+					else:
+						raise NotImplementedError
+					file.write(f"- {clean_text}")
+					file.write("\n")
+				except Exception as e:
+					print(clean_title)
+					print(h)
+					print(e)
 
 			file.close()
 
