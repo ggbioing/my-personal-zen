@@ -1,6 +1,6 @@
 ---
-title: "la vendetta è un ballo in maschera"
-author: "francesca crescentini"
+title: "La vendetta è un ballo in maschera"
+author: "Francesca Crescentini"
 tag: [essay, dumas]
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "cattiva prevenzione"
-author: "roberta villa"
+title: "Cattiva prevenzione"
+author: "Roberta Villa"
 tag: [essay, medicine, epidemiology]
 ---
 
