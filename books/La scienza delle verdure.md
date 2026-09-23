@@ -1,0 +1,6 @@
+# La scienza delle verdure La chimica del pomodoro e della cipolla Italian Edition
+## Dario Bressanini
+- Quando le cipolle saranno marroncine togliete il coperchio, aggiungete un bicchiere di vino bianco e alzate il fuoco. Mescolate, se necessario. Come vino sarebbe meglio un bianco secco, per bilanciare il dolce delle cipolle.
+- Così come noi ci presentiamo con il nome e il cognome, anche le specie botaniche si presentano in modo simile, con il nome del genere e della specie: “Buongiorno sono Cucumis sativus, detto anche cetriolo”. E mi raccomando, il nome del genere va in maiuscolo, quello della specie in minuscolo e tutti in corsivo, altrimenti i botanici si arrabbiano. A volte, il nome del genere è abbreviato con la sola iniziale: C. sativus.
+- Prima del congelamento è necessario sbianchire le zucchine, per bloccare gli enzimi che potrebbero deteriorarle anche sottozero.
+- L’olio permette alle verdure, una volta messe nel forno, di raggiungere temperature più elevate, proteggendole almeno in parte dalla disidratazione troppo veloce. Senza copertura d’olio, l’acqua evapora mantenendo la superficie degli ortaggi vicino a 100 °C, anche se il forno è a temperature superiori, e quindi la brunitura e la produzione di sapori è inferiore.
